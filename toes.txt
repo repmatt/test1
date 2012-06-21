@@ -1,0 +1,4 @@
+toes are attached to a foot
+foot.isStinky();
+toes.parent.isStinky();
+foot.toes().clipNails();

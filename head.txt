@@ -1,0 +1,2 @@
+the head is attached to the neck
+head.parent().bend('left');

@@ -1,0 +1,3 @@
+hair grows out of many places
+head.hair().howLong();
+
